@@ -1,7 +1,7 @@
 name: conradj
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7731440183706582
+layout_spectrum: 0
+typography_spectrum: 0.86344
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#f39b13'
     - '#f96817'
     - '#0202b1'
-  brandStrength: 0
-  lightness: 0.28229147335514426
-  saturation: 0.0625
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
